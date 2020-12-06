@@ -1,0 +1,13 @@
+name: appsilon_technical
+title: appsilon_technical
+username:
+account: patrickduffy34
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3360928
+bundleId: 3950689
+url: https://patrickduffy34.shinyapps.io/appsilon_technical/
+when: 1607268790.85368
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ships.csv|ships.feather|tests/testthat.R|tests/testthat/test-longest_between_observations.R
